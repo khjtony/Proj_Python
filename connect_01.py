@@ -1,0 +1,10 @@
+import socket
+port=int(input("Please input port: "))
+print("Creating socket...")
+s=socket.socket(socket.AF_INET,socket.SOCK_STREAM)
+print("Done.")
+print("Connecting to remote host...")
+s.connect(("localhost",port))
+print(s.getsockname())
+print(s.getpeername())
+print("Done.")
