@@ -1,0 +1,2 @@
+Statistical Properties of Daily Returns For: GOOG
+Mean = -0.000102063616891 Median = 0.0 Standard Deviation = 0.0153289639455 Skewness = -0.115028846863 Kurtosis = 4.76227464383
